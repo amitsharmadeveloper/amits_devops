@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Java\jdk1.7.0
+
+
+
+path = ;C:\Program Files (x86)\Java\jdk1.7.0\bin;
+classpath = C:\Program Files (x86)\Java\jdk1.7.0\lib\*.jar;
